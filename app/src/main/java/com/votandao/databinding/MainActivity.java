@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
         filmList.add(new Film("Bố Già", "Trấn Thành", true, "https://photo-cms-plo.zadn.vn/w800/Uploaded/2021/wopsvun/2020_12_03/image001_urah.jpg", 1));
         filmList.add(new Film("Cô Ba Sài Gòn", "Ngô Thanh Vân", true, "https://vntoplist.com/wp-content/uploads/2020/09/co-ba-sai-gon-186945.jpg", 2));
         filmList.add(new Film("Ai Chết Giơ Tay", "Huỳnh Lập", true, "https://sandien24h.vn/uploads/images/ai-chet-trailer%20(2).jpg", 2));
-        filmList.add(new Film("Mắt Biết", "Victor Vũ", false, "https://i.bloganchoi.com/bloganchoi.com/wp-content/uploads/2020/10/phim-viet-chieu-rap-2020-6-696x994.jpg?fit=700%2C20000&quality=95&ssl=1", 3));
+        filmList.add(new Film("Mắt Biếc", "Victor Vũ", false, "https://i.bloganchoi.com/bloganchoi.com/wp-content/uploads/2020/10/phim-viet-chieu-rap-2020-6-696x994.jpg?fit=700%2C20000&quality=95&ssl=1", 3));
         filmList.add(new Film("30 Chưa Phải Là Tết","Quang Huy", true, "https://i.bloganchoi.com/bloganchoi.com/wp-content/uploads/2020/10/phim-viet-chieu-rap-2020-13-696x994.jpg?fit=700%2C20000&quality=95&ssl=1", 1));
         filmList.add(new Film("Sky Tour Movie", "Sơn Tùng MTP", true, "https://www.gocdienanh.com/wp-content/uploads/2020/06/sky-tour-movie-7.jpg", 5));
         filmList.add(new Film("Hai Phượng ", "Ngô Thanh Vân", true, "https://thegioidienanh.vn/stores/news_dataimages/hath/122018/08/10/4739_Hai_Phuong_-_Poster.jpg", 3));
